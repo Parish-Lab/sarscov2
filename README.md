@@ -1,8 +1,8 @@
 # Investigating Novel Thiazolyl-Indazole Derivatives as Scaffolds for SARS-Cov-2 MPro Inhibitors
 Justin Airas, Catherine A. Bayas, Abdellah N'Ait Ousidi†, Moulay Youssef Ait Itto†, Aziz Auhmani†, Mohamed Loubidi†, M'hamed Esseffar†, Julie A. Pollock, and Carol A. Parish&ast;
 
-_Department of Chemistry, University of Richmond, Gottwald Center for the Sciences, Richmond, VA 23173
-†Département de Chimie, Faculté des Sciences Semlalia, Cadi Ayyad University, BP 2390, Marrakech, Morocco_
+_Department of Chemistry, University of Richmond, Gottwald Center for the Sciences, Richmond, VA 23173_
+_†Département de Chimie, Faculté des Sciences Semlalia, Cadi Ayyad University, BP 2390, Marrakech, Morocco_
 
 &ast;Corresponding Author: Carol A. Parish, Department of Chemistry, Gottwald Center for the Sciences,
 University of Richmond, Richmond VA, USA. E-mail: cparish@richmond.edu
