@@ -13,12 +13,17 @@ COVID-19 is a global pandemic caused by infection with the SARS-CoV-2 virus. Rem
 
 ## All Files
 #### Input Structures
-Contains all binding poses used to initiate MD simulation
+All binding poses used to initiate MD simulation
 
-   [Thiazolyl-Indazole Compounds](Input_Structures/Thiazolyl_Indazole_Cmpds/)
+[Thiazolyl-Indazole Compounds](Input_Structures/Thiazolyl_Indazole_Cmpds/)
 
-   [5-mer Substrates](Input_Structures/5mer_Substrates/)
+[5-mer Substrates](Input_Structures/5mer_Substrates/)
 
-   [X77 Inhibitor](Input_Structures/X77_Inhibitor/)
+[X77 Inhibitor](Input_Structures/X77_Inhibitor/)
 
 #### Average Structures
+Average structures identified from analysis of MD trajectories
+
+[Compound I](Average_Structures/CmpdI/)
+
+[Compound III](Average_Structures/CmpdIII/)
